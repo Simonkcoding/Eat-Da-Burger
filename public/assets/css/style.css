@@ -1,0 +1,32 @@
+.container{
+    padding:10px;
+    margin: auto;
+    border: solid 2px;
+    text-align: center;
+    max-width:60vw;
+    opacity: 0.95;
+    background-color: white;
+}
+
+.container-fuild{
+    padding:10px;
+    margin: auto;
+    background-image: url("../img/bg.jpg");
+}
+
+.row{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.card{
+    text-align: left;
+    font-size: 20px;
+    padding:10px;
+margin: 10px 0 10px 0;
+}
+
+li{
+    margin-top: 5px;
+    margin-bottom:5px;
+}
+
